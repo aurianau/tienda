@@ -43,6 +43,7 @@ CREATE TABLE IF NOT EXISTS `tiendabd`.`telefonos` (
 ENGINE = InnoDB;
 
 
+
 -- -----------------------------------------------------
 -- Table `tiendabd`.`proveedor`
 -- -----------------------------------------------------
